@@ -1,5 +1,7 @@
 # Mod-3-The-Password-Generator
 
+https://tuddat0224.github.io/Mod-3-The-Password-Generator-main/
+
 This Challenge to create a random password generator by using JavaScript. The password can include special characters.
 
 ## User Story
