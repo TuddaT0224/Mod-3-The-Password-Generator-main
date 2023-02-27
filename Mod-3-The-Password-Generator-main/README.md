@@ -1,5 +1,7 @@
 # Mod-3-The-Password-Generator
 
+This Challenge to create a random password generator by using JavaScript. The password can include special characters.
+
 ## User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
@@ -21,3 +23,8 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+## Review
+You are required to submit BOTH of the following for review:
+The URL of the deployed application.
+The URL of the GitHub repository. Give the repository a unique name and include a README describing the project
